@@ -3,4 +3,4 @@
 
  cd /home/ubuntu/interview_admin-main
 
- #pm2 restart interview_node 
+ #pm2 restart interview_admin 
