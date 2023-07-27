@@ -1,1 +1,1 @@
-chown -R /home/ubuntu/interview_admin-main
+chown -R ubuntu: /home/ubuntu/interview_admin-main
