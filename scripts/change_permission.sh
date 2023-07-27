@@ -1,1 +1,1 @@
-chown -R nodeapp: /home/ubuntu/interview_admin-main
+chown -R /home/ubuntu/interview_admin-main
