@@ -29,5 +29,5 @@ let errorMiddle = (error,req,res,next)=>{
 app.use(errorMiddle);
 
 app.listen(process.env.SERVER_PORT,()=>{
-    console.log(`app listening on http://localhost:${process.env.SERVER_PORT}`)
+    console.log(`app listening >>><<<<< http://localhost:${process.env.SERVER_PORT}`)
 })
