@@ -5,9 +5,6 @@ files:
   destination: /home/ubuntu/interview_admin-main
 hooks:  
 AfterInstall:
-  - location: scripts/change_permission.sh
-      timeout: 300
-      runas: root
   - location: scripts/installpkgs.sh
     timeout: 300
     runas: root
